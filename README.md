@@ -10,8 +10,8 @@ This README provides an overview of the project, how to install and use it, and 
 
 ### Links:
 - **GitHub Repository**: [ChessMate](https://github.com/Bbr011/CHESSMATE)
-- **Hamza Khadraoui LinkedIn**: [https://www.linkedin.com/in/hamza0111/](#)
-- **Youssef Nassib LinkedIn**: [https://www.linkedin.com/in/youssef-nassib-90694b270/](#)
+- **Hamza Khadraoui LinkedIn**: [https://www.linkedin.com/in/hamza0111/]([#](https://www.linkedin.com/in/hamza0111/))
+- **Youssef Nassib LinkedIn**: [https://www.linkedin.com/in/youssef-nassib-90694b270/]([#](https://www.linkedin.com/in/youssef-nassib-90694b270/))
 - **Project Blog**: [ChessMate Development Journey](#)
 
 ---
