@@ -10,8 +10,8 @@ This README provides an overview of the project, how to install and use it, and 
 
 ### Links:
 - **GitHub Repository**: [ChessMate](https://github.com/Bbr011/CHESSMATE)
-- **Author 1 LinkedIn**: [Your LinkedIn Profile](#)
-- **Author 2 LinkedIn**: [Teammate’s LinkedIn Profile](#)
+- **Hamza Khadraoui LinkedIn**: [(https://www.linkedin.com/in/hamza0111/)](#)
+- **Youssef Nassib LinkedIn**: [https://www.linkedin.com/in/youssef-nassib-90694b270/](#)
 - **Project Blog**: [ChessMate Development Journey](#)
 
 ---
@@ -55,7 +55,7 @@ ChessMate currently supports:
 - Select and move chess pieces using your mouse.
 - The game follows standard chess rules for valid moves.
 - Notifications appear when in check or checkmate.
-- Undo your last move with the undo feature.
+- When a player takes out a piece it apears on the side of the screen
 
 ### Screenshot:
 ![ChessMate Gameplay Screenshot](#)
@@ -66,7 +66,7 @@ ChessMate currently supports:
 
 - **Player vs. Player Mode**: Enjoy a local match against another human player.
 - **Check/Checkmate Detection**: Game notifies players when in check or checkmate.
-- **Undo Move**: Allows players to undo their last move for better gameplay experience.
+- **Pawn upgarde**: Pawn upgrades to a queen when it reachs the lase row.
 
 ---
 
@@ -75,7 +75,7 @@ ChessMate currently supports:
 ### Completed Features:
 - Chess piece movement with validation.
 - Check and checkmate detection.
-- Undo last move functionality.
+- Pawn upgrad.
 
 ### Incomplete Features:
 - AI opponent (delayed due to the complexity and lack of experience with AI development).
