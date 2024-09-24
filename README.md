@@ -110,12 +110,6 @@ Here are a few projects related to chess or game development that you might find
 
 ---
 
-## Licensing
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
----
-
 ## Technical Challenges & Insights
 
 ### Challenges:
