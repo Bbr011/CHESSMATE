@@ -1,6 +1,7 @@
 # ChessMate
 
-![ChessMate Screenshot](#)
+![WhatsApp Image 2024-08-22 at 14 54 30_ab14a650](https://github.com/user-attachments/assets/b1ccbd66-a62e-421d-b938-b7ebc2c50901)
+
 
 ## Introduction
 
@@ -58,7 +59,8 @@ ChessMate currently supports:
 - When a player takes out a piece it apears on the side of the screen
 
 ### Screenshot:
-![ChessMate Gameplay Screenshot](#)
+![Screenshot 2024-09-24 004642](https://github.com/user-attachments/assets/b6212e0b-4017-48e0-9caf-4e54fe3dcb20)
+
 
 ---
 
